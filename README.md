@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Ankit Kumar** ([@Ankitkumar802](https://github.com/Ankitkumar802))  
+# 👋 Hi, I’m **Ankit Kumar** ([@Ankitkumar802](https://github.com/Ankitkumar))  
 
 Welcome to my GitHub profile! I'm a passionate **student**, always eager to learn and grow in the fields of **AI**, **Robotics**, and **Software Development**. 🚀
 
